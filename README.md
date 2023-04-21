@@ -10,3 +10,4 @@
 - [wasm-pack docs](https://rustwasm.github.io/wasm-pack/book/introduction.html)
 - [wasm-pack - homebrew](https://formulae.brew.sh/formula/wasm-pack)
 - [prettier](https://prettier.io/docs/en/configuration.html)
+- [react native](https://reactnative.dev/)
