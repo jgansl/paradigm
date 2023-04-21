@@ -11,3 +11,4 @@
 - [wasm-pack - homebrew](https://formulae.brew.sh/formula/wasm-pack)
 - [prettier](https://prettier.io/docs/en/configuration.html)
 - [react native](https://reactnative.dev/)
+- [supabase integraion](https://supabase.com/docs/guides/auth/auth-helpers/nextjs)
