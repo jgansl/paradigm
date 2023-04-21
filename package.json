@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "wasm:compile": "cd lib && wasm-pack build --target web"
+    "test": "echo TESTING",
+    "wasm:compile": "cd lib && wasm-pack build --target web",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@types/node": "18.15.13",
@@ -23,5 +25,8 @@
     "rippleui": "^1.12.0",
     "tailwindcss": "3.3.1",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
   }
 }
