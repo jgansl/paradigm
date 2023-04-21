@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "echo TESTING",
+    "test": "npm run lint",
     "wasm:compile": "cd lib && wasm-pack build --target web",
     "prepare": "husky install"
   },
