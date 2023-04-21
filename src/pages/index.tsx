@@ -40,7 +40,7 @@ export default function Home() {
           height={37}
           priority
         />
-        <button className="btn mt-4">Hello World!</button>
+        <button className="btn btn-primary mt-4">Hello World!</button>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
